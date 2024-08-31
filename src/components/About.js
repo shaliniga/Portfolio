@@ -11,7 +11,7 @@ export default function About(){
                 <p>As I have selected for an Internship in Forbes Advisor Company via VIT college Campus placement. And I have learned creating wordpress website using Php, JavaScript, React Js and more.After completed my 6 months Internship I am converted to Full time Associate Software Engineer.</p><br/>
                 <p>I began my work journey here and currently serve as a Full Stack Web Developer at Forbes Advisor. As a Backend Developer I manage WordPress sites like <a className= 'text-blue-500 hover:text-yellow-300 ' href='https://www.usatoday.com/'>USA Today,</a> <a className= 'text-red-500 hover:text-yellow-300 ' href='https://edition.cnn.com/'> CNN </a> and <a className= 'text-purple-500 hover:text-yellow-300 ' href='https://www.forbes.com/advisor/in/'>Forbes Advisor</a>. My work includes developing essential Gutenberg blocks, Themes, building templates and creating plugins using PHP, JavaScript, JSX, React.js, and Tailwind CSS. I also use Git for version control.</p>
                 <br/>
-                <p>In addition to this, I am proficient in Java and SQL programming languages.</p>
+                <p>In addition to this, I am proficient in Java, Python and SQL programming languages.</p>
             </div>
         </section>
     );
