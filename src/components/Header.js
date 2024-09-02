@@ -9,7 +9,7 @@ function Header(){
         <p className="flex font-passion-one text-2xl px-4">Shalini's Portfolio</p>
         <nav className='hidden md:block'>
         <ul className="flex">
-            <li className='hover:text-red-500 px-4'><a href = '/'>Home</a></li>
+            <li className='hover:text-red-500 px-4'><a href = 'https://shaliniga.github.io/Shalini-Portfolio'>Home</a></li>
             <li className='hover:text-red-500 px-4'><a href = '#about'>About</a></li>
             <li className='hover:text-red-500 px-4'><a href = '#resume'>Resume</a></li>
             <li className='hover:text-red-500 px-4'><a href = '#contact'>Contact</a></li>
